@@ -87,7 +87,7 @@ hr {
 
 .main-container {
     width: 870px;
-    height: 362px;
+    height: 420px;
     line-height: 23px;
     margin: 21px auto;
     border-radius: 5px;
@@ -115,7 +115,8 @@ hr {
     filter: drop-shadow(0px 5.34229px 13.3557px rgba(28, 26, 26, 0.073));
     line-height: 23px;
     padding: 13px;
-    border-radius: 5PX;
+    border-radius: 10px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
 .items img {
@@ -133,6 +134,7 @@ hr {
     color: #ED6B4F;
     font-size: 14px;
     line-height: 17px;
+    
     padding: 7px;
 }
 
@@ -200,7 +202,7 @@ span:last-child {
 
     .blog-title {
         text-align: center;
-        padding: 20px 0;
+        padding: 30px 0;
     }
 
     .blog-content {
@@ -215,7 +217,7 @@ span:last-child {
     }
     .player-title{
         text-align: center;
-        padding: 30px 0;
+        padding: 35px 0;
     }
 
     .nav {
@@ -249,7 +251,8 @@ span:last-child {
     }
 
     .items {
-        padding: 0;
+        margin: 10px 0;
+        
     }
 
 }
